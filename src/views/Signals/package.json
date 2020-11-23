@@ -1,0 +1,7 @@
+
+{
+  "name": "Signals",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Signals.js"
+}
