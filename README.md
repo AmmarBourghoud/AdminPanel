@@ -1,2 +1,8 @@
 # AdminPanel
 Interface Panel Admin du projet Contribute
+
+# Projet : 
+CONTRIBUTE est un projet visant à améliorer la qualité de vie des citoyens en complétant les travaux effectués par les mairies et les communes rurales grâce à l’implication et à la participation collective. Ce projet offrira l’opportunité à tous les citoyens pour ‘contribuer’ activement dans l’amélioration de leurs voisinages pour assurer un meilleur entretien et une meilleure qualité de service. En effet, Contribute se pose comme intermédiaire entre le simple individu et les services communaux de sa ville. Au lieu de se déplacer chez les services de sa ville et passer par tout une procédure (déclaration, formulaire...) pour signaler une problématique, le citoyen pourra désormais tout faire via Contribute qui vise à faciliter et simplifier ce processus. Le citoyen pourra signaler toute anomalie et la soumettre. Après analyse des demandes, le département des travaux publics fournira des interventions tels que : l’entretien et le nettoyage des rues, le maintien des bâtiments, le déneigement, la rénovation des panneaux de signalisation, l’arrangement des problèmes d’éclairage, la gestion des déchets...etc. Tout cela en passant par une procédure de réclamation rapide via une application mobile accessible et facile d’utilisation. 
+
+# Panel Admin : 
+Le Panel Admin est l'interface destinée aux mairies qui leur permettra d'avoir une vision globale de tous les signalements, leurs géolocalisation ainsi qu'une vision détaillée d'un signalement. Les mairies pourront mettre a jour le statut d'un signalement et tenir l'utilisateur au courant du traitement de sa réclamation.
